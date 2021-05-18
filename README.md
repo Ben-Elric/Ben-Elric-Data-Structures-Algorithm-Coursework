@@ -1,2 +1,2 @@
 # Data Structures & Algorithm Coursework
-A coursework in Nanjing University of Science &amp; Technology.
+A referable coursework in Nanjing University of Science &amp; Technology.
